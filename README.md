@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justin-Thomas-34
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me justinthomasus34@gmail.com
 
